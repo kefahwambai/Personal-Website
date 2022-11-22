@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kirang+Haerang&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kirang+Haerang&family=Schoolbell&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Geo&display=swap');
 
 * {
     margin: 0;
@@ -184,4 +185,5 @@ footer p {
     
     text-align: center;
     font-size: 10px;
+    font-family: 'Geo', sans-serif;
 }
