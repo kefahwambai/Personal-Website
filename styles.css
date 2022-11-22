@@ -179,3 +179,9 @@ img {
 .cnts li {
     font-size: 35px;
 }
+
+footer p {
+    
+    text-align: center;
+    font-size: 10px;
+}
