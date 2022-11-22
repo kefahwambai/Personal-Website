@@ -65,15 +65,16 @@ nav ul li a:hover {
 }
 
 button {
-    padding: 10px;
+    padding: 5px;
     margin-top: 10px;
-    background-color:darkgray;   
+    background-color:darkgray;
+    border-radius: 10px;   
     
 }
 button a {
     text-decoration: none;
     font-family: 'Kirang Haerang', cursive;
-    font-size: x-large;
+    font-size: 25px;
     color: white;
      
     
@@ -86,6 +87,7 @@ button a:hover {
 button:hover{
     color: white;
 }
+
 
 
 span {
@@ -133,19 +135,29 @@ line-height:12px;
     margin: auto;
     padding: 20px;
     font-family: 'Schoolbell', cursive;
-    color:royalblue;
+    color:black;
     display: flex;
     font-size: 20px;
     text-decoration: none;
 }
 
+.cnts li {
+    list-style: none;
+
+}
 
 
 .cnts li a {
     text-decoration: none;
-    list-style:none;
+    font-size: 35px;
+    color:darkturquoise
 }
 
 .cnts li a:hover {
     color: red;
+}
+
+
+.cnts li {
+    font-size: 35px;
 }
